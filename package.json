@@ -1,0 +1,25 @@
+{
+  "name": "lab318.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaycruz718/318.2-Express-Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jaycruz718/318.2-Express-Application/issues"
+  },
+  "homepage": "https://github.com/jaycruz718/318.2-Express-Application#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
